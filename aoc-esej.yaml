@@ -1,0 +1,13 @@
+name: aoc-esej
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - requests
+  - python==3.9
