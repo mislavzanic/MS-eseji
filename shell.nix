@@ -7,7 +7,7 @@ pkgs.mkShell {
     python310Packages.scipy
     python310Packages.ipython
     python310Packages.requests
-
+    python310Packages.z3
     python310Packages.notebook
   ];
   shellHook = ''
