@@ -10,4 +10,5 @@ dependencies:
   - matplotlib
   - scipy
   - requests
+  - z3
   - python==3.9
